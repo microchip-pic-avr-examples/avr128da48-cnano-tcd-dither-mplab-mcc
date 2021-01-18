@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-tcd-dither-mplab-mcc",
         "version": "1.0.0",
-        "displayName": "  ",
+        "displayName": "AVR128DA48 TCD Dithering Code Example",
         "projectName": "avr128da48-cnano-tcd-dither-mplab-mcc",
         "shortDescription": "This repository contains how to use the Timer/Counter type D (TCD) dithering feature.",
         "ide": {
